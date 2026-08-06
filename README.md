@@ -9,3 +9,17 @@
 スリープ時間、検出名など、キーボード本体の挙動を設定できます。  
 ### [Kconfig.defconfig](config/boards/shields/fish/Kconfig.defconfig)
 親機の左右を変えることができます。  
+
+## 補足
+
+- I + A = F18
+- N + S = F19
+
+としているが、これはchromeリモートデスクトップ用
+
+chromeリモートデスクトップのキーマッピングで
+
+- F18 → Lang2
+- F19 → Lang1
+
+としている
