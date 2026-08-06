@@ -72,6 +72,16 @@
             key-positions = <25 26>;
             bindings = <&kp LANG1>;
         };
+
+        combo_f17 {
+            key-positions = <10 11>;
+            bindings = <&kp F17>;
+        };
+
+        combo_f18 {
+            key-positions = <16 17>;
+            bindings = <&kp F18>;
+        };
     };
     
 
