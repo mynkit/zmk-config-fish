@@ -73,14 +73,14 @@
             bindings = <&kp LANG1>;
         };
 
-        combo_f19 {
+        combo_f18 {
             key-positions = <10 11>;
-            bindings = <&kp F19>;
+            bindings = <&kp F18>;
         };
 
-        combo_f20 {
+        combo_f19 {
             key-positions = <16 17>;
-            bindings = <&kp F20>;
+            bindings = <&kp F19>;
         };
     };
     
