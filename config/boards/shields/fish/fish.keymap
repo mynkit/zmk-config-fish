@@ -74,12 +74,12 @@
         };
 
         combo_f18 {
-            key-positions = <10 11>;
+            key-positions = <0 1>;
             bindings = <&kp F18>;
         };
 
         combo_f19 {
-            key-positions = <16 17>;
+            key-positions = <6 7>;
             bindings = <&kp F19>;
         };
     };
